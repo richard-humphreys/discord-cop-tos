@@ -1,0 +1,44 @@
+Privacy Policy
+
+1. Introduction
+This Privacy Policy explains how Community Operations Platform ("we", "us", "our") collects, uses, and discloses information about you when you use our Discord bot ("Bot").
+
+2. Information We Collect
+We collect the following types of information:
+
+- User Activity Data: We track messages sent and time spent in voice channels to monitor user activity levels.
+
+- Server Data: We collect information about the servers where the Bot is installed, including server ID, roles, and activity parameters set by moderators.
+
+- User Data: We collect information about users, including user ID, activity logs, and roles assigned by the Bot.
+
+3. How We Use the Information
+
+We use the information we collect to:
+
+- Provide and improve the Bot's services.
+
+- Monitor and analyze user activity to assign appropriate roles.
+
+- Communicate with server moderators regarding user activity.
+
+4. Data Sharing and Disclosure
+We do not share your personal information with third parties except in the following circumstances:
+
+With Your Consent: We may share information with third parties if you have given us your consent to do so.
+For Legal Reasons: We may share information if we believe it is necessary to comply with a legal obligation, protect our rights, or prevent fraud or abuse.
+
+5. Data Retention
+We retain user data as long as it is necessary to provide our services. If you remove the Bot from your server, we will delete the related data within a reasonable period.
+
+6. Data Security
+We take reasonable measures to protect the information we collect from unauthorized access, use, or disclosure. However, no method of transmission over the internet or electronic storage is completely secure, so we cannot guarantee its absolute security.
+
+7. Your Data Rights
+Depending on your jurisdiction, you may have certain rights regarding your personal data, including the right to access, correct, or delete your data. To exercise these rights, please contact us at communityoperationsplatform@gmail.com.
+
+8. Changes to Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on our website or within the Bot. You are advised to review this Privacy Policy periodically for any changes.
+
+9. Contact Us
+If you have any questions about this Privacy Policy, please contact us at communityoperationsplatform@gmail.com.
